@@ -193,6 +193,7 @@ footer{
     justify-content: center;
     align-items: center;
 }
+
 .socialIcons a{
     text-decoration: none;
     padding: 10px;
@@ -258,5 +259,8 @@ li{
         text-align: center;
         width: 100%;
         margin: 10px;
+    }
+    ul{
+        margin-right: 30px;
     }
 }
